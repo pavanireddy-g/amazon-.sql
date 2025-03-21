@@ -11,7 +11,7 @@ The dataset consist sales record for three cities of Myanmar which are Naypyitaw
 * Sales Analysis
 * Product Analysis
 * Customer Analysis
-# --- Questions Answered ---
+##--- Questions Answered ---
 * What is the count of distinct product lines in dataset?
 * Which payment method occours most frequently?
 * Which product line has highest sales?
@@ -25,4 +25,4 @@ The dataset consist sales record for three cities of Myanmar which are Naypyitaw
 * Identifying cusstomer type contributing highest revenue?
 * Determining day of the week with highest customer rating for each branch?
   
-# And many more
+## And many more
