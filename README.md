@@ -24,4 +24,5 @@ The dataset consist sales record for three cities of Myanmar which are Naypyitaw
 * Which product line is most frequently associated with each gender?
 * Identifying cusstomer type contributing highest revenue?
 * Determining day of the week with highest customer rating for each branch?
-And many more
+  
+# And many more
